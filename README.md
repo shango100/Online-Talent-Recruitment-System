@@ -23,7 +23,7 @@ Online Talent recruitment system built with spring boot and a microservice archi
 
 
 * Project address
-    *Eureka server lives at  
+    * Eureka server lives at  
     	http://localhost:8761/
     	Note: you can use this page to check which services are up and running
     The links to the various services are as follows:
