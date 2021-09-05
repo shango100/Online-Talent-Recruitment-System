@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/company-service/company-service.iml" filepath="$PROJECT_DIR$/company-service/company-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/getjobinfo-service/getjobinfo-service.iml" filepath="$PROJECT_DIR$/getjobinfo-service/getjobinfo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/givejobinfo-service/givejobinfo-service.iml" filepath="$PROJECT_DIR$/givejobinfo-service/givejobinfo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/news-service/news-service.iml" filepath="$PROJECT_DIR$/news-service/news-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person-service/person-service.iml" filepath="$PROJECT_DIR$/person-service/person-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resume-service/resume-service.iml" filepath="$PROJECT_DIR$/resume-service/resume-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/resume-service (1).iml" filepath="$PROJECT_DIR$/user-service/resume-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/user-service/user-servicce.iml" filepath="$PROJECT_DIR$/user-service/user-servicce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demoeureka/user-service.iml" filepath="$PROJECT_DIR$/demoeureka/user-service.iml" />
+    </modules>
+  </component>
+</project>
